@@ -1,2 +1,2 @@
 # cpp_hello
-First Hello World in C++
+Hello World in C++
